@@ -1,8 +1,6 @@
 <div align="center">
 
- 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Abhishek's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)](https://git.io/typing-svg)
 
