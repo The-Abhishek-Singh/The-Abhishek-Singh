@@ -28,7 +28,7 @@
 
 </h3>
 
-<h3 align="center"><strong> A Passionate Full Stack Web Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
+<h3 align="center"><strong> A Passionate Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
 <br><br>
 
