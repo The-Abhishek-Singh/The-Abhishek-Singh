@@ -34,8 +34,7 @@
 
 <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=The-Abhishek-Singh&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Abhishek" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek249494" /> </p>
 
 - 🔭 I’m currently working on **earthsome.co**
 
