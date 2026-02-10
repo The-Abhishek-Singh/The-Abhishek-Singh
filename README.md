@@ -158,13 +158,13 @@
 		</tr>
       <tr>
         <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Abhishek-Singh&theme=github_dark">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Abhishek-Singh&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
+          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOMUGOMUSTUDIOES&theme=github_dark">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOMUGOMUSTUDIOES&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
           </a>
         </th>
         <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=The-Abhishek-Singh&show_icons=true&locale=en">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=The-Abhishek-Singh&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=GOMUGOMUSTUDIOES&show_icons=true&locale=en">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOMUGOMUSTUDIOES&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
           </a>
         </th>
       </tr>
@@ -175,9 +175,9 @@
 	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 		
 <picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
+  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GOMUGOMUSTUDIOES/GOMUGOMUSTUDIOES/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GOMUGOMUSTUDIOES/GOMUGOMUSTUDIOES/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GOMUGOMUSTUDIOES/GOMUGOMUSTUDIOES/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 	</td>
 	</tr>
