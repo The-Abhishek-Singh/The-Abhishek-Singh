@@ -26,11 +26,3 @@ jobs:
           github-user-name: The-Abhishek-Singh
           output-path: assets/space-shooter.gif
           strategy: random
-
-      - name: Commit & Push GIF
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add assets/space-shooter.gif
-          git commit -m "update space shooter gif" || echo "No changes"
-          git push
