@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create assets directory
+      - name: Create assets folder
         run: mkdir -p assets
 
       - name: Generate Space Shooter GIF
@@ -26,3 +26,11 @@ jobs:
           github-user-name: The-Abhishek-Singh
           output-path: assets/space-shooter.gif
           strategy: random
+
+      - name: Commit & Push GIF
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add assets/space-shooter.gif
+          git commit -m "update space shooter gif" || echo "No changes"
+          git push
