@@ -43,6 +43,7 @@
 - 💬 Ask me about **javaScript,Next.js,Python,C++**
 
 - 📫 reach me @  **abhi120730@gmail.com**
+- 
 
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
@@ -59,8 +60,12 @@
 <h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
 
  <br><br>
-<a href="https://www.linkedin.com/in/abhishekdata100/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.abhishekworks.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 <a href="mailto:abhi120730@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/abhishekdata100/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
  
 <a href="https://www.codechef.com/users/abhishek9424" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
