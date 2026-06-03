@@ -41,7 +41,7 @@
 
 <br><br>
 
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+<img align="right" alt="Coding" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFocmptdzFrY3h6YnV3NzM4bGRyOHdtbXl0ZTRyNTE0cDM2ZTF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjVOYb4y9dPqoRRrPZ/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek249494" /> </p>
 
