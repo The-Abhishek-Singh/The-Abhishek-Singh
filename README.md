@@ -1,7 +1,8 @@
 
 <br>
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<!-- ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) -->
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df59xdq-bd889872-e6eb-45d6-bf03-a00e8e2ec8a0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82ZmU5MTMyMi1lMzZkLTRhY2EtOGQ4My00MTkwNGY5ZTQyOWYvZGY1OXhkcS1iZDg4OTg3Mi1lNmViLTQ1ZDYtYmYwMy1hMDBlOGUyZWM4YTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XRykHBKMdyPmMnaTxq2P2e4FmhVnCRCKiCg6AjOyiTc)
 
 <div align="center">
 
