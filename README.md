@@ -57,11 +57,10 @@
 
 - 👀 I’m interested in **Web Development, Blockchain, and DSA**
   
-
-  <div align="center">
-  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" width="200" />
-  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" width="200" />
-  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" width="200" />
+<div align="center">
+  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" height="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" height="150" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" height="150" />
 </div>
 
 <div align="center">
