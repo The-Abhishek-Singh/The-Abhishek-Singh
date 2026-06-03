@@ -27,7 +27,7 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGR3cWp1dC03OTA2MGZjMi1jNmJlLTRlODAtYWI0NC0zYzQwNTUyM2U0ZmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0vFkqN3rMaQ7mnEkhkZWkLG4XhR4Atr647NuIPzkhHk" >
 </div>
 
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Abhishek Singh"/></h1>
+<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Abhishek "/></h1>
 
 
 
