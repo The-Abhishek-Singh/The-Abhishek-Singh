@@ -10,7 +10,11 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Abhishek's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)](https://git.io/typing-svg) -->
-<h2 align="center"><strong> Greetings From Abhishek's Enchanters 🪄 Your Passport to a World Of Wonder! </strong> </h2>
+<!-- <h2 align="center"><strong> Greetings From Abhishek's Enchanters 🪄 Your Passport to a World Of Wonder! </strong> </h2> -->
+<!-- Exact Satoshi Regular layout from image_01de88.png -->
+<h2 align="center" style="font-size: 1.65em; font-weight: 400; letter-spacing: -0.01em; line-height: 1.4; margin-top: 10px; margin-bottom: 20px;">
+  Greetings From Abhishek's Enchanters 🪄 Your Passport to a World Of Wonder!
+</h2>
 
 
 
