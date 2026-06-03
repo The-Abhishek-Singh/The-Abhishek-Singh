@@ -43,7 +43,7 @@
 
 <img align="right" alt="Coding" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFocmptdzFrY3h6YnV3NzM4bGRyOHdtbXl0ZTRyNTE0cDM2ZTF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjVOYb4y9dPqoRRrPZ/giphy.gif"/>
 
-<img src="https://komarev.com/ghpvc/?username=abhishek249494&label=🧭+Sailors+Who+Visited&color=8B0000&style=flat" alt="abhishek249494" />
+<img src="https://komarev.com/ghpvc/?username=abhishek249494&label=🧭+Sailors+Who+Visited++&color=8B0000&style=flat" alt="abhishek249494" />
 
 > *"Not all treasure is silver and gold, mate."* — Captain Jack Sparrow 🏴‍☠️
 
