@@ -41,7 +41,7 @@
 
 <br><br>
 
-<img align="right" alt="Coding" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFocmptdzFrY3h6YnV3NzM4bGRyOHdtbXl0ZTRyNTE0cDM2ZTF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjVOYb4y9dPqoRRrPZ/giphy.gif"/>
+<img align="right" alt="Coding" height="300" src="https://i.pinimg.com/originals/a4/57/51/a4575170f957db3a05c1f4ffbec5f048.gif"/>
 
 <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=🧭+Sailors+Who+Visited++&color=8B0000&style=flat" alt="abhishek249494" />
 
