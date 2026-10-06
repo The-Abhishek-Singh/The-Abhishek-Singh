@@ -32,10 +32,10 @@
 
 
 
-<h3 align="center">
+<!-- <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
 
-</h3>
+</h3> -->
 
 <h3 align="center"><strong> A Passionate Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
