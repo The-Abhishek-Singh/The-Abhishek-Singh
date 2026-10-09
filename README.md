@@ -47,9 +47,9 @@
 
 > *"Not all treasure is silver and gold, mate."* — Captain Jack Sparrow 🏴‍☠️
 
-- 🔭 I’m currently working on **earthsome.co**
+- 🔭 I’m currently working on **getnook.me**
 
-- 🌱 I’m currently learning **Three.js,DSA**
+- 🌱 I’m currently Preparing for **JLPT N4**
 
 - 💬 Ask me about **javaScript,Next.js,Python,C++**
 
