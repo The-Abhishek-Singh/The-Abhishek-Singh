@@ -37,7 +37,7 @@
 
 </h3> -->
 
-<h3 align="center"><strong> A Passionate Developer from India  <img src="https://i.pinimg.com/originals/c2/91/19/c291194049ac942c0a1d2193db65f5dd.gif" width="30"></strong> </h3>
+<h3 align="center"><strong> A Passionate Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
 <br><br>
 
