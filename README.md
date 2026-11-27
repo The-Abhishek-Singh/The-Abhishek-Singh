@@ -41,7 +41,7 @@
 
 <br><br>
 
-<img align="right" alt="Coding" height="300" src="https://i.pinimg.com/originals/dd/57/2c/dd572c57e003bcd0d12cc887f177041f.gif"/>
+<img align="right" alt="Coding" height="300" src="https://i.pinimg.com/originals/9c/e4/be/9ce4bedbf213c2d2f8da99ec0fc1a035.gif"/>
 
 <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=🧭+Sailors+Who+Visited++&color=8B0000&style=flat" alt="abhishek249494" />
 
