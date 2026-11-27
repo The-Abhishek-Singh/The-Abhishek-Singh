@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center"><strong>Socials &amp; Contact 💻</strong></h2>
+  <h2 align="center"><strong>Socials and Coding Profiles 💻</strong></h2>
   <br><br>
 
   <a href="https://www.linkedin.com/in/abhishekdata100/" target="_blank" rel="noreferrer">
@@ -51,8 +51,23 @@
   <a href="https://www.abhishekworks.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://x.com/YOUR_X_HANDLE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
   <a href="https://discord.gg/YOUR_DISCORD_INVITE_CODE" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
+  <br><br>
+
+  <a href="https://www.codechef.com/users/abhishek9424" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://leetcode.com/u/Abhishek2494/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/abhi12b0sa/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksforGeeks" />
   </a>
 </div>
 
