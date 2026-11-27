@@ -37,38 +37,21 @@
   <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" height="150" alt="Campfire" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif" height="150" alt="Campfire" />
 </div>
-
+<br><br>
 <div align="center">
-  <h2 align="center"><strong>Socials and Coding Profiles 💻</strong></h2>
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/abhishekdata100/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abhi120730@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.abhishekworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://x.com/YOUR_X_HANDLE" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="https://discord.gg/YOUR_DISCORD_INVITE_CODE" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-
-  <br><br>
-
-  <a href="https://www.codechef.com/users/abhishek9424" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://leetcode.com/u/Abhishek2494/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/abhi12b0sa/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksforGeeks" />
-  </a>
+  <h2 align="center" style="margin-bottom: 12px;"><strong>Socials and Coding Profiles 💻</strong></h2>
+  <p style="margin: 0 0 8px 0; line-height: 1.2;">
+    <a href="https://www.linkedin.com/in/abhishekdata100/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+    <a href="mailto:abhi120730@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
+    <a href="https://www.abhishekworks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" height="28" alt="Portfolio" /></a>
+    <a href="https://x.com/YOUR_X_HANDLE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="28" alt="X" /></a>
+    <a href="https://discord.gg/YOUR_DISCORD_INVITE_CODE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord" /></a>
+  </p>
+  <p style="margin: 0; line-height: 1.2;">
+    <a href="https://www.codechef.com/users/abhishek9424" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height="28" alt="CodeChef" /></a>
+    <a href="https://leetcode.com/u/Abhishek2494/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="28" alt="LeetCode" /></a>
+    <a href="https://www.geeksforgeeks.org/user/abhi12b0sa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" height="28" alt="GeeksforGeeks" /></a>
+  </p>
 </div>
 
 <br><br>
