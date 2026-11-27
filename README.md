@@ -44,7 +44,9 @@
     <a href="https://www.linkedin.com/in/abhishekdata100/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
     <a href="mailto:abhi120730@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
     <a href="https://www.abhishekworks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" height="28" alt="Portfolio" /></a>
-    <a href="https://x.com/YOUR_X_HANDLE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="28" alt="X" /></a>
+  <a href="https://x.com/YOUR_X_HANDLE" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="28" alt="X" />
+</a>
     <a href="https://discord.gg/YOUR_DISCORD_INVITE_CODE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord" /></a>
   </p>
   <p style="margin: 0; line-height: 1.2;">
