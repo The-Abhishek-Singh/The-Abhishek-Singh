@@ -47,7 +47,7 @@
   <a href="https://x.com/YOUR_X_HANDLE" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="28" alt="X" />
 </a>
-    <a href="https://discord.gg/YOUR_DISCORD_INVITE_CODE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord" /></a>
+    <a href="https://discord.gg/dfRZw8Vzm6" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord" /></a>
   </p>
   <p style="margin: 0; line-height: 1.2;">
     <a href="https://www.codechef.com/users/abhishek9424" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height="28" alt="CodeChef" /></a>
